@@ -1,0 +1,15 @@
+
+0
+java:S1220""Move this file to a named package.
+^
+java:S2259f"CA "NullPointerException" could be thrown; "frame" is nullable here.(šòÃçùÿÿÿÿ
+@
+java:S3398l"%Move this method into "MenuListener".(ê¤üúÿÿÿÿ
+@
+java:S3398^"%Move this method into "MenuListener".(¯€şÿÿÿÿ
+;
+java:S3398M"%Move this method into "MenuListener".(Ï¯Úµ
+@
+java:S3398u"%Move this method into "MenuListener".(¼ ãûÿÿÿÿ
+;
+java:S3398V"%Move this method into "MenuListener".(»¢ãŒ
